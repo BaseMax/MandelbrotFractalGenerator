@@ -8,8 +8,6 @@ This is a C program that generates fractal images using the Mandelbrot set. The 
 
 - Generate fractal images using the Mandelbrot set
 - Zoom in and out of the image using the mouse or keyboard
-- Change the color scheme of the image
-- Save the image to a file
 
 ## Requirements
 
