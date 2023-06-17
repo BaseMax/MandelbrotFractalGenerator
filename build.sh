@@ -13,7 +13,7 @@ if [[ "$OS" == "Linux" ]]; then
     if [[ "$(lsb_release -si)" == "Debian" ]] || [[ "$(lsb_release -si)" == "Kali" ]]; then
         LIBS=$(pkg-config --libs sdl2)
         CFLAGS+=" $(pkg-config --cflags sdl2)"
-    elif [[ "$(lsb_release -si)" == "Arch" ]]; then
+    elif [[ "$(lsb_release -si)" == "Arch" ]] || [[ "$(lsb_release -si)" == "ManjaroLinux" ]]; then
         LIBS="-lSDL2"
     fi
 fi
