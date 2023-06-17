@@ -2,6 +2,8 @@
 
 This is a C program that generates fractal images using the Mandelbrot set. The program allows users to zoom in and out of the image and change its color scheme.
 
+![Fractal](assets/img.png)
+
 ## Features
 
 - Generate fractal images using the Mandelbrot set
@@ -12,7 +14,6 @@ This is a C program that generates fractal images using the Mandelbrot set. The 
 ## Requirements
 
 - C compiler (GCC or Clang recommended)
-- Make utility
 - SDL2 library (for graphics)
 
 ## Usage
@@ -20,7 +21,8 @@ This is a C program that generates fractal images using the Mandelbrot set. The 
 To build the program, run:
 
 ```bash
-make
+chmod +x build.sh
+./build.sh compile
 ```
 
 To run the program, use the following command:
@@ -70,7 +72,7 @@ Here is an example of how to use the program:
 - Build and run the program:
 
 ```bash
-make
+./build.sh compile
 ./fractal 800 600
 ```
 
