@@ -37,7 +37,6 @@ The fractal window will open, displaying the default Mandelbrot set. You can use
 
 - `+`: Zoom in
 - `-`: Zoom out
-- `r`: Reset the zoom level and color scheme
 - `s`: Save the current image to a file
 - `q`: Quit the program
 
@@ -46,16 +45,6 @@ The fractal window will open, displaying the default Mandelbrot set. You can use
 - Left-click: Zoom in at the clicked position
 - Right-click: Zoom out at the clicked position
 - Middle-click: Reset the zoom level and color scheme
-
-## Color Schemes
-
-The program provides several built-in color schemes that you can cycle through by pressing the c key:
-
-- Rainbow: A rainbow-colored gradient
-- Black and White: A grayscale gradient
-- Blues: A blue-colored gradient
-- Greens: A green-colored gradient
-- Reds: A red-colored gradient
 
 ## Notes
 
@@ -75,8 +64,6 @@ Here is an example of how to use the program:
 ```
 
 - Use the mouse to zoom in and out of the image.
-
-- Press the c key to cycle through the color schemes.
 
 - Press the s key to save the current image to a file.
 
