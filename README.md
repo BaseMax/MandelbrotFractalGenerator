@@ -3,6 +3,13 @@
 This is a C program that generates fractal images using the Mandelbrot set. The program allows users to zoom in and out of the image and change its color scheme.
 
 ![Fractal](assets/img.png)
+![Fractal](assets/img1.png)
+![Fractal](assets/img2.png)
+![Fractal](assets/img3.png)
+![Fractal](assets/img4.png)
+![Fractal](assets/img5.png)
+![Fractal](assets/img6.png)
+
 
 ## Features
 
