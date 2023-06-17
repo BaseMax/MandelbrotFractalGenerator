@@ -86,7 +86,7 @@ I hope this description helps you understand the Mandelbrot fractal generator pr
 
 ## Authors
 
-- ...
+- Maximilian Edison
 - Max Base
 
 Copyright 2023, Max Base
